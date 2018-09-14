@@ -9,6 +9,6 @@ This repo is _not_ that, however. This builds a minimal utility image for use wh
 This image is [available on Docker Hub](https://hub.docker.com/r/xhio/xh-ubuntu/).
 
 ----
-:mailbox: :phone: :earth_americas: info@xh.io | https://xh.io/contact
+📫☎️🌎 info@xh.io | https://xh.io/contact
 
 Copyright © 2018 Extremely Heavy Industries Inc.
